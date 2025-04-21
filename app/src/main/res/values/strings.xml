@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="swipe_to_delete">Swipe to remove</string>
+    <string name="product_details">Product Details</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="network_error">Network error. Please try again.</string>
+    <string name="product_removed">Product removed from cart</string>
+    <string name="undo">UNDO</string>
+</resources>
